@@ -1,0 +1,6 @@
+{
+  "name": "Project-x",
+  "tagline": "Weekly changes to project X",
+  "body": "<!DOCTYPE html>\r\n<html lang=\"eng\"><meta charset=\"utf-8\">\r\n<head>\r\n    <title>Grandma's Recipes</title>\r\n    </head>\r\n\r\n<body>\r\n    <h1>My Favorite Recipes</h1>\r\n    <h3>The way Grandma used to make.</h3>\r\n    <h4><em>Eggy in the Basket</em></h4>\r\n    <p>Follow these steps carefully and you will seduce a king</p>\r\n    <hr><p>Steps:</p>\r\n    <ol>\r\n    <li>Heat REAL butter in a pan just before cooking point.</li>\r\n    <li>While the butter melts, cut a circle in the middle of the bread, about the size of a cup.</li>\r\n    <li>Place the bread in the pan and break an egg into the open space.</li>\r\n    <li>Drip some of the butter onto the egg and add some Cyan pepper for flavour.</li>\r\n    <li>Place the cut out bread over it.</li>\r\n    <li>Flip the basket and make sure it seals.</li>\r\n    <li>Serve with your favourite condiment.</li>\r\n    <li>Savor the pure ecstasy on the face of your guest.</li>\r\n    </ol><hr>\r\n\r\n</body>\r\n</html>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
